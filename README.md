@@ -54,7 +54,7 @@ Using standard regression notation:
 $$\hat{Y}=\beta_0+\beta_1 X$$
 
 Estimated model:
-$$\hat{Y}=-79.8+0.89\,X$$
+$$\hat{Y}=-79.8+0.89\X$$
 
 Parameters:
 - \(\beta_0=-79.8\) (intercept)
@@ -98,7 +98,7 @@ Using standard regression notation:
 $$\hat{Y}=\beta_0+\beta_1 X+\beta_2 D$$
 
 Estimated model:
-$$\widehat{\text{weight}}=9.66+0.41\,\text{height}-11.1\,\text{sex(Female)}$$
+$$\widehat{\text{weight}}=9.66+0.41\*\text{height}-11.1\*\text{sex(Female)}$$
 
 Parameters:
 - \(\beta_0=9.66\) (intercept)
