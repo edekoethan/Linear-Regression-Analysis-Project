@@ -154,8 +154,8 @@ summary(m4)
 ### Regression Equation
 
 [
-\text{SBP} = 109.7 + 0.40\times\text{weight} - 9.64\times\text{sex(F)} - 9.60\times\text{smoke(Former)} - 8.48\times\text{smoke(Never)} + \
-8.31\times\text{edu(LowerSec)} - 2.32\times\text{edu(UpperSec)}
+SBP = 109.7 + 0.40 * weight - 9.64 * sex(F) - 9.60 * smoke(Former) - 8.48 * smoke(Never) + 
+8.31 * edu(LowerSec) - 2.32 * edu(UpperSec)
 ]
 
 ### Interpretation
