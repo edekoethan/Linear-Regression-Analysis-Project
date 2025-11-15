@@ -128,7 +128,7 @@ summary(m3)
 ### Regression Equation
 
 [
-\text{BPsystolic} = 81.96 + 0.60 \times \text{weight}
+BPsystolic = 81.96 + 0.60 * weight
 ]
 
 Parameters:
