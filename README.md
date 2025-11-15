@@ -54,7 +54,7 @@ Using standard regression notation:
 $$\hat{Y}=\beta_0+\beta_1 X$$
 
 Estimated model:
-$$\hat{Y}=-79.8+0.89\X$$
+$$\hat{Y}=-79.8+0.89\*X$$
 
 Parameters:
 - \(\beta_0=-79.8\) (intercept)
