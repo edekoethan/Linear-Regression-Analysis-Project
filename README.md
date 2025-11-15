@@ -46,8 +46,19 @@ summary(m1)
 ### Regression Equation
 
 [
-\text{weight} = -79.8 + 0.89 \times \text{height}
+weight= −79.8 + 0.89×height
 ]
+
+Using standard regression notation:
+
+$$\hat{Y}=\beta_0+\beta_1 X$$
+
+Estimated model:
+$$\hat{Y}=-79.8+0.89\,X$$
+
+Parameters:
+- \(\beta_0=-79.8\) (intercept)
+- \(\beta_1=0.89\) (slope)
 
 ### Interpretation
 
