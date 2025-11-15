@@ -196,9 +196,8 @@ scatterplot2
 ### Model: `bwt ~ weight_kg`
 
 Regression equation:
-[
-\text{bwt} = 2369.6 + 9.76 \times \text{weight}_\text{kg}
-]
+bwt = 2369.6 + 9.76 * weight_kg
+
 
 * CI: **2.31–17.22**
 * p = **0.0105**
@@ -223,9 +222,9 @@ summary(model_adjusted)
 
 ### Regression Equation
 
-[
-\text{bwt} = 2374.19 + 12.64\times\text{weight}_\text{kg} + 0.03\times\text{age} -432\times\text{race(Black)} -224\times\text{race(Other)} -558\times\text{ht(Yes)}
-]
+
+bwt = 2374.19 + 12.64 * weight_kg + 0.03 *age -432 * race(Black) -224 * race(Other) -558 * ht(Yes)
+
 
 ### Interpretation
 
