@@ -93,9 +93,21 @@ summary(m2)
 
 ### Regression Equation
 
-[
-\text{weight} = 9.66 + 0.41 \times \text{height} - 11.1\times \text{sex(Female)}
-]
+Using standard regression notation:
+
+$$\hat{Y}=\beta_0+\beta_1 X+\beta_2 D$$
+
+Estimated model:
+$$\widehat{\text{weight}}=9.66+0.41\,\text{height}-11.1\,\text{sex(Female)}$$
+
+Parameters:
+- \(\beta_0=9.66\) (intercept)
+- \(\beta_1=0.41\) (height)
+- \(\beta_2=-11.1\) (sex: Female vs reference)
+
+Interpretation:
+* A 1 cm increase in height is associated with a 0.41 kg increase in weight, holding sex constant.
+* Being female is associated with a 11.1 kg lower weight versus the reference category, holding height constant.
 
 ### Interpretation
 
