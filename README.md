@@ -2,10 +2,6 @@
 
 This markdown file summarizes a full workflow of linear regression analyses conducted in R. It includes data loading, descriptive plots, model fitting, confounder adjustment, interpretation of coefficients, confidence intervals, and manual formula-based calculations.
 
-
-
-`![Scatterplot of weight vs height](images/weight_vs_height)`
-`![Scatterplot of birth weight vs weight_kg](images/birthweight_vs_weight_kg)`
 ---
 
 ## 1. Loading Dataset and Preparing Environment
@@ -34,8 +30,7 @@ scatterplot1
 ```
 
 Add plot:
-
-![Scatterplot of weight vs height](images/weight_vs_height)
+![Scatterplot of weight vs height](images/weight_vs_height.png)
 
 ---
 
@@ -165,7 +160,7 @@ scatterplot2
 
 ```
 
-!![Scatterplot of birth weight vs weight_kg](images/birthweight_vs_weight_kg)
+![Scatterplot of birth weight vs weight_kg](images/birthweight_vs_weight_kg.png)
 
 ---
 
