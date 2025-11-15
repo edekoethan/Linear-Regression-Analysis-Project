@@ -128,8 +128,12 @@ summary(m3)
 ### Regression Equation
 
 [
-\text{BP}_\text{systolic} = 81.96 + 0.60 \times \text{weight}
+\text{BPsystolic} = 81.96 + 0.60 \times \text{weight}
 ]
+
+Parameters:
+- \(\beta_0 = 81.96\) (intercept)
+- \(\beta_1 = 0.60\) (slope; mmHg per 1 kg)
 
 ### Interpretation
 
